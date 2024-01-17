@@ -1,0 +1,38 @@
+{
+    "Item1": {
+        "start_x": 0,
+        "start_y": 0,
+        "end_x": 3,
+        "end_y": 1
+    },
+    "Item2": {
+        "start_x": 0,
+        "start_y": 1,
+        "end_x": 1,
+        "end_y": 4
+    },
+    "Item3": {
+        "start_x": 1,
+        "start_y": 1,
+        "end_x": 2,
+        "end_y": 3
+    },
+    "Item4": {
+        "start_x": 1,
+        "start_y": 2,
+        "end_x": 3,
+        "end_y": 3
+    }, 
+    "Item5": {
+        "start_x": 1,
+        "start_y": 2,
+        "end_x": 3,
+        "end_y": 4
+    },
+    "Item6": {
+        "start_x": 2,
+        "start_y": 2,
+        "end_x": 4,
+        "end_y": 3
+    }
+}
